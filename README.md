@@ -16,6 +16,8 @@ The primary objective of our project is to design and implement an effective Haz
 ## Architecture Design
 ![alt text](https://github.com/safwans22/Smart-Hazard-Detection-Using-IOT-Blynk/blob/main/Screenshot%202024-07-28%20150943.png?raw=true)
 ## Cloud Setup
+--- PLEASE NOTE TO CHANGE THE BLYNK AUTH CODE & TEMPLATE ID WITH YOUR OWN ---
+
 1. Blynk files for different sensor connections ahve been attached in the repo.
 2. You need to create a template in the blynk and add the Meter for temperature and humidity
 3. Also, for gas detection and water level, you need a template and add the notifications to it.
