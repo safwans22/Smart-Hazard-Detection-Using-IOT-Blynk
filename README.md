@@ -13,13 +13,6 @@ The primary objective of our project is to design and implement an effective Haz
 
 
 
-## Authors
-
-- [@safwansajad](https://www.linkedin.com/in/safwansajad/)
-- [@mominzargar](https:#)
-
-
-
 ## Architecture Design
 ![alt text](https://github.com/safwans22/Smart-Hazard-Detection-Using-IOT-Blynk/blob/main/Screenshot%202024-07-28%20150943.png?raw=true)
 ## Cloud Setup
@@ -38,3 +31,9 @@ You need to buy:
 4. JUMPER WIRES
 5. FLAME sensor
 6. TRANSISTORS
+## Authors
+
+- [@safwansajad](https://www.linkedin.com/in/safwansajad/)
+- [@mominzargar](https:#)
+
+
